@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2ea95893-158b-4d63-bc42-677aaf35685e",
+  "id_short": 328230,
+  "published_at": "2026-04-11T07:29:20Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-maryland-us-sample-328230",
+  "sample_asset_name": "beamstation_328230_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/328230/beamstation_328230_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "7a3cf5883d0b4d12968bae22a21e597c0fe14a24874c402c618c755347820d71",
+  "sample_size_bytes": 57349,
+  "total_records": 1044
+}
