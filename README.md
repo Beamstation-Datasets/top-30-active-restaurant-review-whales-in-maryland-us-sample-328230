@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Maryland, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `328230` |
 | Location | Maryland |
 | Category | Restaurants |
-| Full dataset size | 307 records |
-| Free sample size | 30 records (9.77%) |
-| Last export | 2026-04-22T05:30:05.823159+00:00 |
+| Full dataset size | 77 records |
+| Free sample size | 7 records (9.09%) |
+| Last export | 2026-04-29T07:39:18.775903+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-maryland-us-sample-328230/releases/download/sample-latest/beamstation_328230_restaurants-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
